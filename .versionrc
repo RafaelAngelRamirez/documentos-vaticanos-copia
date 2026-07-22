@@ -1,0 +1,32 @@
+{
+  "bumpFiles": [
+    {
+      "filename": "package.json",
+      "type": "json"
+    },
+    {
+      "filename": "frontend/package.json",
+      "type": "json"
+    },
+    {
+      "filename": "scripts-descarga/package.json",
+      "type": "json"
+    },
+    {
+      "filename": "README.md",
+      "updater": "standard-version-updater.js"
+    },
+    {
+      "filename": "frontend/src/environments/environment.prod.ts",
+      "updater": "standard-version-updater.js"
+    },
+    {
+      "filename": "frontend/src/environments/environment.ts",
+      "updater": "standard-version-updater.js"
+    },
+    {
+      "filename": "easy_version",
+      "updater": "standard-version-updater.js"
+    }
+  ]
+}
